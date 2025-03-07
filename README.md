@@ -17,7 +17,7 @@ The **Rocketman Command Center (RCC)** is your streamlined solution for macOS de
 
 ## 💡 Get Started
 
-Explore Rocketman Command Center's tools, setup instructions, and more in our [✨ comprehensive wiki](https://github.com/Rocketman-Tech/rcc/wiki).
+➡️ **[Visit the Wiki](https://github.com/Rocketman-Tech/rcc/wiki)** for complete setup instructions, tool details, and more!
 
 ---
 

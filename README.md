@@ -1,4 +1,4 @@
-<img src="[https://github.com/user-attachments/assets/6950ad0b-6df8-421f-8764-6e5a62c6cab5](https://github.com/user-attachments/assets/ce012d56-d2ec-465f-a9ae-97b2fe1dbc3f)" alt="Rocketman CC - Square Icon" width="250">
+<img src="https://github.com/user-attachments/assets/ce012d56-d2ec-465f-a9ae-97b2fe1dbc3f" alt="Rocketman CC - Square Icon" width="250">
 
 # Welcome to Rocketman Command Center!
 

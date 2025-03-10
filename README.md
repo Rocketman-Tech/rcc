@@ -6,6 +6,8 @@
 
 The **Rocketman Command Center (RCC)** is your streamlined solution for macOS device management, designed to complement and extend the capabilities of Jamf Pro. By replacing traditional bash scripts with a modern, modular approach, RCC simplifies workflows, enhances efficiency, and improves security for administrators and Jamf engineers alike.
 
+For more information, [Watch the Offical Launch Event! ](https://youtu.be/o_c4DX1QHVs)
+
 ### Key Features:
 - **Simplify Deployment**: Perform critical tasks like FileVault management, temporary admin access, or user privilege adjustments with a single command.
 - **Enhance Automation**: Integrate seamlessly with Jamf Pro, leveraging API-driven workflows for precision and control.

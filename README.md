@@ -36,3 +36,9 @@ For more information, [Watch the Offical Launch Event! ](https://youtu.be/o_c4DX
 ## 🌟 Inspiration
 
 Our documentation approach takes inspiration from tools like [`npm`](https://docs.npmjs.com/cli/v10/commands/npm), blending professionalism with user-friendly guidance.
+
+Creating these tools would not be possible without the collective amazing work of the Mac Admins Community. Lets keep creating great things together! 
+
+## Acknowledgments
+
+This toolset leverages [swiftDialog](https://github.com/swiftDialog/swiftDialog) for any dialog windows and anytime we prompt for user information. 

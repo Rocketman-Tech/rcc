@@ -1,4 +1,4 @@
-# Rocketman Command Center Use License
+# Rocketman Command Center (RCC) Use License
 
 1. **Grant of Use**  
    - You are granted a non-exclusive, non-transferable right to use the binary version of Rocketman Command Center for internal business purposes.  

@@ -42,3 +42,11 @@ Creating these tools would not be possible without the collective amazing work o
 ## Acknowledgments
 
 This toolset leverages [swiftDialog](https://github.com/swiftDialog/swiftDialog) for any dialog windows and anytime we prompt for user information. 
+
+---
+
+## 💼 Support
+
+Professional setup, custom integrations, and SLA-backed support are available.
+
+➡️ [Book a time](https://rkmn.tech/book-epl-wk)

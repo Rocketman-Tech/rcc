@@ -49,4 +49,4 @@ This toolset leverages [swiftDialog](https://github.com/swiftDialog/swiftDialog)
 
 Professional setup, custom integrations, and SLA-backed support are available.
 
-➡️ [Book a time](https://rkmn.tech/book-epl-wk)
+➡️ [Learn more](https://github.com/Rocketman-Tech/rcc/wiki/Support-&-Professional-Services)

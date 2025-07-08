@@ -23,6 +23,14 @@ For more information, [Watch the Offical Launch Event! ](https://youtu.be/o_c4DX
 
 ---
 
+## 💼 Support
+
+Professional setup, custom integrations, and SLA-backed support are available.
+
+➡️ [Learn more](https://github.com/Rocketman-Tech/rcc/wiki/Support-&-Professional-Services)
+
+---
+
 ## 💬 Feedback
 
 ### Have Feedback or Found a Bug?  
@@ -42,11 +50,3 @@ Creating these tools would not be possible without the collective amazing work o
 ## Acknowledgments
 
 This toolset leverages [swiftDialog](https://github.com/swiftDialog/swiftDialog) for any dialog windows and anytime we prompt for user information. 
-
----
-
-## 💼 Support
-
-Professional setup, custom integrations, and SLA-backed support are available.
-
-➡️ [Learn more](https://github.com/Rocketman-Tech/rcc/wiki/Support-&-Professional-Services)

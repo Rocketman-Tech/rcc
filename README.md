@@ -41,7 +41,7 @@ Professional setup, custom integrations, and SLA-backed support are available.
 
 ---
 
-## Interested in Pro? 
+## 🖥️ Interested in Pro? 
 
 RCC Pro provides additional tools, onboarding and support to bring RCC to the next level. 
 

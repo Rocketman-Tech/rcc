@@ -1,0 +1,12 @@
+{
+  "version": "2.7.5",
+  "channels": {
+    "stable": {
+      "darwin-universal2": {
+        "url": "https://github.com/Rocketman-Tech/rcc/releases/download/v2.7.5/rocketman-v2.7.5.pkg",
+        "sha256": "5fa94ac943b59cd40a71129de5970ec006c02dcef5e24c0ab54389524b24917d"
+      }
+    }
+  },
+  "notes": "Version 2.7.5: Automated release with auto-update system. See release notes for details."
+}

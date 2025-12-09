@@ -8,8 +8,8 @@ The **Rocketman Command Center (RCC)** is your streamlined solution for macOS de
 
 For more information: 
 - [Watch the Offical Launch Event! ](https://youtu.be/o_c4DX1QHVs)
-- [Check us out at the MacAdmins Conference] (https://youtu.be/DZ2UyKYIGqs?si=WnNoVyWA21bfW15m)
-- [What's new with Version 2 at JNUC] (https://youtu.be/rqD7iLmMMdE?si=71YHcsGeILjSIGD_)
+- [Check us out at the MacAdmins Conference](https://youtu.be/DZ2UyKYIGqs?si=WnNoVyWA21bfW15m)
+- [What's new with Version 2 at JNUC](https://youtu.be/rqD7iLmMMdE?si=71YHcsGeILjSIGD_)
 
 
 

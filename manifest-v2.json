@@ -1,0 +1,12 @@
+{
+  "version": "2.24.0",
+  "channels": {
+    "stable": {
+      "darwin-universal2": {
+        "url": "https://github.com/Rocketman-Tech/rcc/releases/download/v2.24.0/rocketman-v2.24.0.pkg",
+        "sha256": "c1ff10032a97913f3fc7479f5e95ea98e6c7ab976fcc25102e1154bb91649c5a"
+      }
+    }
+  },
+  "notes": "RCC 2.24.0"
+}
